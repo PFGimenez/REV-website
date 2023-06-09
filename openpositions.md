@@ -22,6 +22,8 @@ We are always looking for enthusiastic and motivated interns, PhDs, postdocs or 
 
 - Grenoble, France - [Détection des intrusions orientée hôte dans les systèmes industriels](https://files.inria.fr/superviz/assets/img/positions/TH2.3.pdf)
 
+- Rennes, France - [Adversarially Robust Machine Learning-based Network Intrusion Detection System](https://files.inria.fr/superviz/assets/img/positions/TH4.1.pdf)
+ 
 - Saclay, France - TH42	 (Eric Totel)
 
 #### Postdocs
@@ -74,8 +76,8 @@ None at the moment
 
 #### Engineers
 
-IG6.1 - Nelson Nkawa
-IG6.4 - Florent Galtier
+- IG6.1 - Nelson Nkawa
+- IG6.4 - Florent Galtier
 
 
 #### Internships
