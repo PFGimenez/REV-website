@@ -56,13 +56,13 @@ None at the moment
 
 #### PhDs
 
-- Paris - [YDS : Yacc intrusion Detection with Semantics](https://files.inria.fr/superviz/assets/img/positions/TH2.1.pdf)
+- Paris - [YDS : Yacc intrusion Detection with Semantics](https://files.inria.fr/superviz/assets/img/positions/TH2.1.pdf) : Grégor Quetel
 
 - Grenoble - [Etude de mécanismes de restauration autonomes pour les systèmes embarqués](https://files.inria.fr/superviz/assets/img/positions/TH3.1.pdf)
 
 - Grenoble - [Auto-reconfiguration des systèmes industriels. Etude de la résilience face aux cyber-attaques](https://files.inria.fr/superviz/assets/img/positions/TH3.2.pdf): Jolahn Vaudey 
 
-- Rennes - TH3.3: Do Duc Anh Nguyen
+- Rennes - [Automatisation de la réaction aux attaques : Spécification des objectifs et mise en œuvre dynamique sur des réseaux programmables](https://files.inria.fr/superviz/assets/img/positions/TH3.3.pdf): Do Duc Anh Nguyen
 
 - Rennes - [Adversarially Robust Machine Learning-based Network Intrusion Detection System](https://files.inria.fr/superviz/assets/img/positions/TH4.1.pdf)
  
