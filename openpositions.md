@@ -32,9 +32,9 @@ We are always looking for enthusiastic and motivated interns, PhDs, postdocs or 
 
 - Rennes - [Explainable and Extensible Machine Learning-driven Intrusion Detection System](https://files.inria.fr/superviz/assets/img/positions/PO4.1.pdf)
 
-- Saclay - PO4.2	(Grégory Blanc)
+- Saclay - [Explaining IDS Decisions through Visualisations](https://files.inria.fr/superviz/assets/img/positions/PO4.2.pdf)
 
-- Saclay - PO5.1	(Grégory Blanc)
+- Saclay - [Test Data Generation using Traffic Morphing](https://files.inria.fr/superviz/assets/img/positions/PO5.1.pdf)
 
 - Nancy - [Data Augmentation for Reliable training of ML-based Intrusion Detectors](https://files.inria.fr/superviz/assets/img/positions/PO5.2.pdf)
 
