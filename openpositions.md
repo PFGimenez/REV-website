@@ -58,7 +58,7 @@ None at the moment
 
 - Paris - [YDS : Yacc intrusion Detection with Semantics](https://files.inria.fr/superviz/assets/img/positions/TH2.1.pdf) : Grégor Quetel
 
-- Grenoble - [Etude de mécanismes de restauration autonomes pour les systèmes embarqués](https://files.inria.fr/superviz/assets/img/positions/TH3.1.pdf)
+- Grenoble - [Etude de mécanismes de restauration autonomes pour les systèmes embarqués](https://files.inria.fr/superviz/assets/img/positions/TH3.1.pdf): Zoé Lagache
 
 - Grenoble - [Auto-reconfiguration des systèmes industriels. Etude de la résilience face aux cyber-attaques](https://files.inria.fr/superviz/assets/img/positions/TH3.2.pdf): Jolahn Vaudey 
 
