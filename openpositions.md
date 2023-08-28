@@ -76,7 +76,7 @@ None at the moment
 
 #### Engineers
 
-- Grenoble - Nelson Nkawa
+- Grenoble - [Nelson Nkawa](https://files.inria.fr/superviz/assets/img/positions/IG6demo.pdf)
 - Toulouse - [Florent Galtier](https://files.inria.fr/superviz/assets/img/positions/IG6.4.pdf)
 
 
