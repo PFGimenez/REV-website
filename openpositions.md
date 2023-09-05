@@ -16,13 +16,13 @@ We are always looking for enthusiastic and motivated interns, PhDs, postdocs or 
 
 - Rennes - TH12	(Gilles Guette)
 
-- Nancy - [Apprentissage par renforcement pour l’évaluation automatisée du risque dans les systèmes en réseau](https://files.inria.fr/superviz/assets/img/positions/TH1.3.pdf)
+- Nancy - [Apprentissage par renforcement pour l’évaluation automatisée du risque dans les systèmes en réseau](https://superviz.inria.fr/assets/img/positions/TH1.3.pdf)
 
-- Grenoble - [Détection des scénarios d’attaque avancés dans les systèmes industriels par une approche mixte IDS/Supervision industrielle](https://files.inria.fr/superviz/assets/img/positions/TH2.2.pdf)
+- Grenoble - [Détection des scénarios d’attaque avancés dans les systèmes industriels par une approche mixte IDS/Supervision industrielle](https://superviz.inria.fr/assets/img/positions/TH2.2.pdf)
 
-- Grenoble - [Détection des intrusions orientée hôte dans les systèmes industriels](https://files.inria.fr/superviz/assets/img/positions/TH2.3.pdf)
+- Grenoble - [Détection des intrusions orientée hôte dans les systèmes industriels](https://superviz.inria.fr/assets/img/positions/TH2.3.pdf)
 
-- Saclay - [Génération de graphes de causalité](https://files.inria.fr/superviz/assets/img/positions/TH4.2.pdf)
+- Saclay - [Génération de graphes de causalité](https://superviz.inria.fr/assets/img/positions/TH4.2.pdf)
 
 #### Postdocs
 
@@ -30,13 +30,13 @@ We are always looking for enthusiastic and motivated interns, PhDs, postdocs or 
 
 - Saclay - PO3.1	(Alexis Olivereau)
 
-- Rennes - [Explainable and Extensible Machine Learning-driven Intrusion Detection System](https://files.inria.fr/superviz/assets/img/positions/PO4.1.pdf)
+- Rennes - [Explainable and Extensible Machine Learning-driven Intrusion Detection System](https://superviz.inria.fr/assets/img/positions/PO4.1.pdf)
 
-- Saclay - [Explaining IDS Decisions through Visualisations](https://files.inria.fr/superviz/assets/img/positions/PO4.2.pdf)
+- Saclay - [Explaining IDS Decisions through Visualisations](https://superviz.inria.fr/assets/img/positions/PO4.2.pdf)
 
-- Saclay - [Test Data Generation using Traffic Morphing](https://files.inria.fr/superviz/assets/img/positions/PO5.1.pdf)
+- Saclay - [Test Data Generation using Traffic Morphing](https://superviz.inria.fr/assets/img/positions/PO5.1.pdf)
 
-- Nancy - [Data Augmentation for Reliable training of ML-based Intrusion Detectors](https://files.inria.fr/superviz/assets/img/positions/PO5.2.pdf)
+- Nancy - [Data Augmentation for Reliable training of ML-based Intrusion Detectors](https://superviz.inria.fr/assets/img/positions/PO5.2.pdf)
 
         
 #### Engineers
@@ -56,28 +56,28 @@ None at the moment
 
 #### PhDs
 
-- Paris - [YDS : Yacc intrusion Detection with Semantics](https://files.inria.fr/superviz/assets/img/positions/TH2.1.pdf) : Grégor Quetel
+- Paris - [YDS : Yacc intrusion Detection with Semantics](https://superviz.inria.fr/assets/img/positions/TH2.1.pdf) : Grégor Quetel
 
-- Grenoble - [Etude de mécanismes de restauration autonomes pour les systèmes embarqués](https://files.inria.fr/superviz/assets/img/positions/TH3.1.pdf): Zoé Lagache
+- Grenoble - [Etude de mécanismes de restauration autonomes pour les systèmes embarqués](https://superviz.inria.fr/assets/img/positions/TH3.1.pdf): Zoé Lagache
 
-- Grenoble - [Auto-reconfiguration des systèmes industriels. Etude de la résilience face aux cyber-attaques](https://files.inria.fr/superviz/assets/img/positions/TH3.2.pdf): Jolahn Vaudey 
+- Grenoble - [Auto-reconfiguration des systèmes industriels. Etude de la résilience face aux cyber-attaques](https://superviz.inria.fr/assets/img/positions/TH3.2.pdf): Jolahn Vaudey 
 
-- Rennes - [Automatisation de la réaction aux attaques : Spécification des objectifs et mise en œuvre dynamique sur des réseaux programmables](https://files.inria.fr/superviz/assets/img/positions/TH3.3.pdf): Do Duc Anh Nguyen
+- Rennes - [Automatisation de la réaction aux attaques : Spécification des objectifs et mise en œuvre dynamique sur des réseaux programmables](https://superviz.inria.fr/assets/img/positions/TH3.3.pdf): Do Duc Anh Nguyen
 
-- Rennes - [Adversarially Robust Machine Learning-based Network Intrusion Detection System](https://files.inria.fr/superviz/assets/img/positions/TH4.1.pdf)
+- Rennes - [Adversarially Robust Machine Learning-based Network Intrusion Detection System](https://superviz.inria.fr/assets/img/positions/TH4.1.pdf)
  
 
 #### Postdocs
 
-- Toulouse - [Embarcabilité des mécanismes de détection dans des objets connectés](https://files.inria.fr/superviz/assets/img/positions/PO2.1.pdf): Paul Olivier
+- Toulouse - [Embarcabilité des mécanismes de détection dans des objets connectés](https://superviz.inria.fr/assets/img/positions/PO2.1.pdf): Paul Olivier
 
 - Sophia - Romain Cayre
 
 
 #### Engineers
 
-- Grenoble - [Nelson Nkawa](https://files.inria.fr/superviz/assets/img/positions/IG6demo.pdf)
-- Toulouse - [Florent Galtier](https://files.inria.fr/superviz/assets/img/positions/IG6.4.pdf)
+- Grenoble - [Nelson Nkawa](https://superviz.inria.fr/assets/img/positions/IG6demo.pdf)
+- Toulouse - [Florent Galtier](https://superviz.inria.fr/assets/img/positions/IG6.4.pdf)
 
 
 #### Internships

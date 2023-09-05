@@ -12,8 +12,10 @@
 # base url for deploiement
 # url: http://people.rennes.inria.fr
 # baseurl: "/Ludovic.Me/superviz"
-url: https://files.inria.fr
-baseurl: /superviz
+url: https://superviz.inria.fr
+baseurl: /
+# url: https://files.inria.fr
+# baseurl: /superviz
 
 #Name of website
 title: SuperviZ

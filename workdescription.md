@@ -4,7 +4,7 @@ title: SuperviZ
 subtitle: A project on security supervision and orchestration
 ---
 
-<img src="/superviz/assets/img/wp.png">
+<img src="/assets/img/wp.png">
 
 ## Lot 0 – Gestion de projet
 
